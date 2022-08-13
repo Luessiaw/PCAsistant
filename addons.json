@@ -1,0 +1,17 @@
+
+[
+{
+    "parent folder":"C:\\Users\\Luessiaw\\Documents\\Program\\Projects",
+    "modules":[{
+            "folder":"WallpaperChange",
+            "module":"wallpaperChanger",
+            "enabled":true
+        },
+        {
+            "folder":"自动开启移动热点",
+            "module":"autoHotspot",
+            "enabled":true
+        }
+    ]
+}
+]
